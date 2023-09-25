@@ -18,7 +18,6 @@ Neste projeto, você encontrará a implementação de um sistema para gerenciar 
 
 ## Tecnologias Utilizadas
 - Kotlin
-- [Outras tecnologias, se aplicável]
 
 ## Como Usar
 1. Clone este repositório:
