@@ -31,4 +31,4 @@ Sinta-se à vontade para contribuir para este projeto. Você pode abrir problema
 
 ## Licença
 
-Este projeto está sob a licença [Nome da Licença]. Consulte o arquivo LICENSE para obter mais informações.
+Este projeto está sob a licença Apache License Version 2.0. Consulte o arquivo LICENSE para obter mais informações.
